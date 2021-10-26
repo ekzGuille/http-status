@@ -2,8 +2,8 @@
 
 ## Get the requested response code
 
-[https://http-status-sigma.vercel.app/](https://http-status-sigma.vercel.app/)`:statusCode`
-[https://status-http-codes.herokuapp.com/](https://status-http-codes.herokuapp.com/)`:statusCode`
+### [https://http-status-sigma.vercel.app/](https://http-status-sigma.vercel.app/)`:statusCode`
+### [https://status-http-codes.herokuapp.com/](https://status-http-codes.herokuapp.com/)`:statusCode`
 
 
 * https://http-status-sigma.vercel.app/200
